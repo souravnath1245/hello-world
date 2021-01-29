@@ -12,7 +12,6 @@ body {
   background: rgba(42, 42, 189, 0.911);
   height: 80px;
   max-width: 100%;
-
 }
 .logo {
   color: white;
@@ -224,7 +223,7 @@ section .paragraph2 {
   }
   section .paragraph2 {
     position: absolute;
-    top: 35%;
+    top: 40%;
     left: 15%;
     font-size: 60px;
     font-weight: bold;
